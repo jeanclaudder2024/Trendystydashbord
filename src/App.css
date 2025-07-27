@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.header-logo {
+  height: 40px;
+  margin-right: 16px;
+}
+
+button {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+button:hover {
+  background-color: #d22819;
+  color: white;
+}
